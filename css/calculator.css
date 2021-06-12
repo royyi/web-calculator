@@ -1,40 +1,44 @@
 h1 {
     font-family: verdana;
+    width: 36%;
+    text-align: center;
 }
 
 #res {
     box-sizing: border-box;
     background-color: lightgray;
     border: solid;
-    width: 40%;
-    height: 48px;
-    font-size: 20px;
+    width: 36%;
+    height: 60px;
+    font-size: 24px;
     margin: 0px;
 }
 
 .operand {
-    background-color: lightgreen;
-    color: brown;
+    background-color: deepskyblue;
+    color: white;
 }
 
 .evaluate {
-    background-color: darkgreen;
+    background-color: darkblue;
     color: white;
 }
 
 .operator {
-    background-color: black;
-    color: red;
+    background-color: blue;
+    color: white;
 }
 
 .buttonContainer {
-    width: 40%;
+    width: 36%;
     height: 400px;
 }
 
 .buttonClass {
     width: 25%;
-    height: 36px;
-    font-size: 18px;
+    height: 50px;
+    font-size: 24px;
     float: left;
+    border-color: dimgray;
+    /* border-style: solid; */
 }
