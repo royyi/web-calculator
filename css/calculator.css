@@ -1,12 +1,15 @@
-body {
-    width: 33%;
+h1 {
+    font-family: verdana;
 }
 
 #res {
+    box-sizing: border-box;
     background-color: lightgray;
     border: solid;
+    width: 40%;
     height: 48px;
     font-size: 20px;
+    margin: 0px;
 }
 
 .operand {
@@ -24,10 +27,14 @@ body {
     color: red;
 }
 
+.buttonContainer {
+    width: 40%;
+    height: 400px;
+}
+
 .buttonClass {
     width: 25%;
     height: 36px;
     font-size: 18px;
-    margin: 0px;
     float: left;
 }

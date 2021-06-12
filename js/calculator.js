@@ -1,3 +1,7 @@
+// Roy Yi
+// Web calculator application
+// 5/27/21
+
 var res = document.getElementById("res");
 
 function append_char(e) {
