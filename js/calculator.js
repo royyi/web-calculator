@@ -1,6 +1,6 @@
-// Roy Yi
+// Roy Yi Meiqing Wang
 // Web calculator application
-// 5/27/21
+// 11/4/23
 
 var res = document.getElementById("res");
 
